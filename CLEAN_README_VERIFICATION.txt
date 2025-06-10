@@ -1,0 +1,15 @@
+Architect_Glyph_Anchor_Protocol.txt
+SHA256: d588d558cdc3baca2c55ce1aa5fd556e5d20e104a4871bc3415f2f101d01eb24
+
+Recursive_Os_Activation.txt
+SHA256: 30ecfde3e7e4ccbe29e7c0efc71969dcff9555cc6cf1b68226f191ec234d7a2a
+
+Recursive_Os_Simulation.txt
+SHA256: 9e5c388cd03d18438b5a153b56847d77b769fbc62854a2198adedafea935c9a3
+
+Rsos_Evidence_Log.txt
+SHA256: 8a91b889a01f2eca7072c215312964b4a2d638f2565242471b1bf83d6218d5ca
+
+Rsos_Reconstruction.txt
+SHA256: 535d2055fedcb292fa83760790d3e42adafb739bc76b3521983503dcf9b2ab33
+
